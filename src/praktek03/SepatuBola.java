@@ -5,7 +5,7 @@ public class SepatuBola extends Sepatu{
 private String jenisBola;
 
 void throttle(){
-    System.out.println("PROK PROK.......");
+    System.out.println("Duk Duk.......");
 }
 
     public String getJenisBola() {

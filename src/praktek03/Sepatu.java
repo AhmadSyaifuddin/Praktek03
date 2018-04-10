@@ -1,9 +1,10 @@
 package praktek03;
 
 public class Sepatu {
-   private String merk;
-   private String warna;
-   private double harga;   
+    private double harga;
+    private String merk;
+    private String warna;
+     
       
    void cetakInfo(){
        System.out.println("merk \t: "+merk+"\n"+
