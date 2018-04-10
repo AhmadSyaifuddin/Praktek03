@@ -8,5 +8,12 @@ public class SepatuAksi {
        a.setHarga(500.000);
        
        a.cetakInfo();
+       
+       System.out.println("Merknya \t: ");
+       System.out.println(a.getMerk());
+       System.out.println("Warnanya \t: ");
+       System.out.println(a.getWarna());
+       System.out.println("Harganya \t: ");
+       System.out.println(a.getHarga());
     }     
 }
